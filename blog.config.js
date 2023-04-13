@@ -23,6 +23,7 @@ const BLOG = {
   CONTACT_GITHUB: process.env.NEXT_PUBLIC_CONTACT_GITHUB || 'https://github.com/kiroZhang1997', // 你的github个人主页 例如 https://github.com/tangly1024
   CONTACT_TELEGRAM: process.env.NEXT_PUBLIC_CONTACT_TELEGRAM || '', // 你的telegram 地址 例如 https://t.me/tangly_1024
   CONTACT_LINKEDIN: process.env.NEXT_PUBLIC_CONTACT_LINKEDIN || 'https://www.linkedin.com/in/%E8%8D%A9%E5%B0%A7-%E5%BC%A0-6b1449128/', // 你的linkedIn 首页
+  CONTACT_ITCH: process.env.NEXT_PUBLIC_CONTACT_ITCH || 'https://kirocat.itch.io/',
 
   // 网站字体
   FONT_STYLE: process.env.NEXT_PUBLIC_FONT_STYLE || 'font-serif', // ['font-serif','font-sans'] 两种可选，分别是衬线和无衬线: 参考 https://www.jianshu.com/p/55e410bd2115
